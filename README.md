@@ -6,7 +6,7 @@ This repository provides information about the data used in our AAAI ICWSM paper
 ### Content of the repository
 
 
-1. The file 'user_ids.csv' contains ids of the houndred thousand sampled Twitter users.
+1. The file 'user_ids.csv' contains ids of the hundred thousand sampled Twitter users.
 
 
 ### Reference
