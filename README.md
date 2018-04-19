@@ -8,11 +8,11 @@ This repository provides information about the data used in our AAAI ICWSM paper
 
 1. The file user_ids.csv contains user IDs of the hundred thousand sampled Twitter users.
 2. The file tweet_ids.json.zip is a compressed file containing tweet IDs of the complete dataset with entire timelines of sampled users. It can be downloaded from: [this link](https://figshare.com/s/c28587a3ce5bca64b0d4)
-3. The folder matched_data contains files with filtered and matched tweets, as described in the paper. It contains the following files:
+3. The folder matched_data contains files with filtered and matched tweets, as described in the paper. Matched pairs of tweets are at the same line, comma-separated. The folder contains the following files:
 * study_1.csv (main study, matched for users)
 * study_2.csv (main study, matched for topics)
 * study_3.csv (control study, matched for users)
-Matched pairs of tweets are at the same line, comma-separated. 
+
 
 
 ### Reference
